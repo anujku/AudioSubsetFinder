@@ -5,20 +5,19 @@ This is a audio subset finder project. You can find the exact time when the matc
 Please refer the specification to get better idea of the problem to be solved and the solution.
 
 Instructions to run the project:
+================
 
 Build process :
-1) UnZip the folder MSDAssFinal and cd into the folder MSDAssFinal.
-
-2) Execute :   
+1) Execute :   
 	./buildscript.sh
 
-3) The build script will internally compile all java classes and create 
+2) The build script will internally compile all java classes and create 
 a jar from them and in the next step it will create an executebale
 from that jar file that can be used anywhere. The intermediate files
 like .class, .jar files created during the process are deleted by the 
 buildscript.sh.
 
-4) Execute arc5500 executable :- 
+3) Execute arc5500 executable :- 
 format-./arc5500 <pathspec> <pathspec>
 e.g :  ./arc5500 -f /1234abc/a.wav --dir ~/abc/
 
