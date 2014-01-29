@@ -58,3 +58,7 @@ Files submitted in Assignment Twelve :
 	- StreamReaderThread.java
 
 No third party software used.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/anujku/audiosubsetfinder/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
